@@ -1,0 +1,262 @@
+@media (min-width: 87.5em) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media (min-width: 75em) and (max-width: 87.45em) {
+  html {
+    font-size: 62.5%;
+  }
+  .element-logo {
+    height: 35%;
+  }
+  .real-img {
+    height: 20%;
+  }
+  .animation-top {
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+  }
+  .animation-bottom {
+    position: absolute;
+    top: 25rem;
+    left: 2rem;
+  }
+}
+
+@media (min-width: 62em) and (max-width: 74.95em) {
+  html {
+    font-size: 50%;
+  }
+  .element-logo {
+    height: 25%;
+  }
+  .real-img {
+    height: 15%;
+  }
+  .element-logo-1 {
+    display: none;
+  }
+  .left-icon {
+    top: 50%;
+    left: -3%;
+    transform: translate(-50%, -50%);
+  }
+
+  .right-icon {
+    top: 50%;
+    right: -6%;
+    transform: translate(-50%, -50%) rotate(180deg);
+  }
+  .animation-top {
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+  }
+  .animation-bottom {
+    position: absolute;
+    top: 24rem;
+    left: 2rem;
+  }
+}
+
+@media (min-width: 48em) and (max-width: 61.98em) {
+  html {
+    font-size: 43.75%;
+  }
+  .element-logo {
+    display: none;
+  }
+  .real-img {
+    display: none;
+  }
+  .element-logo-1 {
+    display: none;
+  }
+  .animation-top {
+    display: none;
+  }
+  .animation-bottom {
+    display: none;
+  }
+  .animation-rect {
+    display: none;
+  }
+  .vertical-line {
+    border-right: 0px;
+  }
+  .count-section {
+    padding: 15rem 0;
+  }
+
+  .real-text {
+    text-align: justify;
+  }
+  .card-text {
+    width: auto;
+  }
+  .testimonial-box {
+    border-radius: 20px;
+    background: #fff;
+    box-shadow: -15px 30px 50px 0px rgba(171, 175, 199, 0.3);
+    padding: 4.8rem 0 4.8rem 0;
+    position: relative;
+  }
+  .left-icon {
+    color: #1bbf00;
+    font-size: 3.2rem;
+    position: absolute;
+    top: 50%;
+    left: 3%;
+    transform: translate(-50%, -50%);
+  }
+
+  .right-icon {
+    color: #1bbf00;
+    font-size: 3.2rem;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(-50%, -50%) rotate(180deg);
+  }
+  .nav-item:last-child {
+    margin-right: 6rem;
+  }
+  .nav-item {
+    margin-bottom: 0.8rem;
+  }
+  .mr-right {
+    margin-left: -5rem;
+  }
+}
+
+@media (min-width: 36em) and (max-width: 47.98em) {
+  html {
+    font-size: 37.5%;
+  }
+  .element-logo {
+    display: none;
+  }
+  .real-img {
+    display: none;
+  }
+  .element-logo-1 {
+    display: none;
+  }
+  .animation-top {
+    display: none;
+  }
+  .animation-bottom {
+    display: none;
+  }
+  .animation-rect {
+    display: none;
+  }
+  .vertical-line {
+    border-right: 0px;
+  }
+  .count-section {
+    padding: 15rem 0;
+  }
+
+  .real-text {
+    text-align: justify;
+  }
+  .card-text {
+    width: auto;
+  }
+  .testimonial-box {
+    border-radius: 20px;
+    background: #fff;
+    box-shadow: -15px 30px 50px 0px rgba(171, 175, 199, 0.3);
+    padding: 4.8rem 0 4.8rem 0;
+    position: relative;
+  }
+  .left-icon {
+    left: -0.6%;
+  }
+
+  .right-icon {
+    right: -4%;
+  }
+  .nav-item:last-child {
+    margin-right: 6rem;
+  }
+  .nav-item {
+    margin-bottom: 0.8rem;
+  }
+  .mr-right {
+    margin-left: -5rem;
+  }
+  .testimonial-section {
+    padding: 5rem 0;
+  }
+}
+
+@media (min-width: 20em) and (max-width: 35.98em) {
+  html {
+    font-size: 31.25%;
+  }
+  .element-logo {
+    display: none;
+  }
+  .real-img {
+    display: none;
+  }
+  .element-logo-1 {
+    display: none;
+  }
+  .animation-top {
+    display: none;
+  }
+  .animation-bottom {
+    display: none;
+  }
+  .animation-rect {
+    display: none;
+  }
+  .vertical-line {
+    border-right: 0px;
+  }
+  .count-section {
+    padding: 15rem 0;
+  }
+
+  .real-text {
+    text-align: justify;
+  }
+  .card-text {
+    width: auto;
+  }
+  .testimonial-box {
+    padding: 0;
+  }
+  .left-icon {
+    display: none;
+  }
+
+  .right-icon {
+    display: none;
+  }
+  .nav-item:last-child {
+    margin-right: 6rem;
+  }
+  .nav-item {
+    margin-bottom: 0.8rem;
+  }
+  .mr-right {
+    margin-left: -5rem;
+  }
+  .testimonial-section {
+    padding: 5rem 0;
+  }
+
+  .testimonial-text {
+    width: auto;
+  }
+  .testimonial-box {
+    padding: 4.8rem 0 4.8rem 0;
+  }
+}
